@@ -16,7 +16,7 @@
 
 ## Liên Hệ 📫
 
-- 📧 Email: your.email@example.com
+- 📧 Email: dennivan.work@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](link_to_linkedin)
 - 🐦 Twitter: [Twitter Handle](link_to_
 
