@@ -4,10 +4,7 @@
 
 Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hội để học hỏi và phát triển.
 
-## Dự Án Nổi Bật 🚀
 
-- [![Marine Flower](https://img.shields.io/badge/Project%201-123456-blue?style=flat-square&logo=python)](link_du_an_1): Mô tả ngắn về dự án và những kỹ thuật chính đã sử dụng.
-- [![Tên Dự Án 2](https://img.shields.io/badge/Project%202-abcdef-green?style=flat-square&logo=javascript)](link_du_an_2): Mô tả ngắn về dự án và những kỹ thuật chính đã sử dụng.
 
 
 ## Kỹ Năng và Ngôn Ngữ 🛠️
