@@ -8,6 +8,7 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 
 
 ## Kỹ Năng và Ngôn Ngữ 🛠️
+ **Kỹ Năng:** Phát triển web, Machine Learning, ...
 
 - **Ngôn Ngữ Lập Trình:** 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
