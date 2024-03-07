@@ -1,51 +1,11 @@
 <p align="center"><a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+dennivan's+profile"></a></p>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: #282c34;
-            color: white;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
+## 🚀 Welcome to My Profile!
 
-        .welcome-table {
-            background-color: #61dafb;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            animation: bounce 1s ease infinite;
-        }
+![Rocket Animation](https://user-images.githubusercontent.com/your-username/rocket-animation.gif)
 
-        @keyframes bounce {
-            0%, 20%, 50%, 80%, 100% {
-                transform: translateY(0);
-            }
-            40% {
-                transform: translateY(-10px);
-            }
-            60% {
-                transform: translateY(-5px);
-            }
-        }
-    </style>
-    <title>Welcome Table</title>
-</head>
-<body>
-    <div class="welcome-table">
-        <h1>Welcome to My Profile</h1>
-        <p>Explore, Learn, Code!</p>
-    </div>
-</body>
-</html>
+Explore, Learn, Code!
 
 
 
