@@ -35,7 +35,7 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 
 ## GitHub Stats
 
-![dennivan](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![dennivan](https://github.com/anuraghazra/github-readme-stats)
 
 
 
