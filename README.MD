@@ -33,6 +33,10 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 ![Số Dòng Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-5000-blue?style=flat-square)
 ![Ngôn Ngữ](https://img.shields.io/badge/Languages-5-orange?style=flat-square)
 
+## GitHub Stats
+
+![dennivan](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 
 
