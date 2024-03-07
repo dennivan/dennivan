@@ -1,15 +1,14 @@
 <p align="center"><a align="center" href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+dennivan's+profile"></a></p>
 ## Kỹ Năng và Ngôn Ngữ 🛠️
+## Kỹ Năng và Ngôn Ngữ 🛠️
 
 - **Ngôn Ngữ Lập Trình:** 
-  ![Python](https://img.icons8.com/color/48/000000/python.png)
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
   
 - **Công Cụ Phát Triển:** 
-  ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-  ![Eclipse](https://img.icons8.com/ios-filled/50/000000/eclipse.png)
+  ![VS Code](https://img.shields.io/badge/VS_Code
 
-- **Kỹ Năng:** Phát triển web, Machine Learning, ...
 
 
 
