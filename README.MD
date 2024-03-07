@@ -18,7 +18,7 @@
 
 - 📧 Email: dennivan.work@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](link_to_linkedin)
-- 🐦 Twitter: [Twitter Handle](link_to_
+- 🐦 Twitter:  [Twitter Handle](link_to_twitter)
 
 
 
