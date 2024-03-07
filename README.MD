@@ -14,6 +14,12 @@
 - **Công Cụ Phát Triển:** 
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## Liên Hệ 📫
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [LinkedIn Profile](link_to_linkedin)
+- 🐦 Twitter: [Twitter Handle](link_to_
+
 
 
 
