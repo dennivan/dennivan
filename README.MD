@@ -35,7 +35,7 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 
 ## GitHub Stats
 
-![dennivan](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![dennivan](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 
