@@ -35,7 +35,7 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 
 ## GitHub Stats
 
-![dennivan](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![dennivan](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 
 
