@@ -30,9 +30,9 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 
 ## Thống Kê Dự Án 📊
 
-![Số Dự Án](https://img.shields.io/badge/Projects-10-brightgreen?style=flat-square)
+![Số Dự Án](https://img.shields.io/badge/Projects-7-brightgreen?style=flat-square)
 ![Số Dòng Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-5000-blue?style=flat-square)
-![Ngôn Ngữ](https://img.shields.io/badge/Languages-5-orange?style=flat-square)
+![Ngôn Ngữ](https://img.shields.io/badge/Languages-2-orange?style=flat-square)
 
 ## GitHub Stats
 
