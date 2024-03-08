@@ -26,7 +26,7 @@ Một người đam mê lập trình và sáng tạo, luôn tìm kiếm cơ hộ
 ## Liên Hệ 📫
 
 - 📧 Email: dennivan.work@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](link_to_linkedin)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/denni-van-53b4aa2a0/)
 - 🐦 Twitter:  [Twitter Handle](link_to_twitter)
 
 ## Thống Kê Dự Án 📊
